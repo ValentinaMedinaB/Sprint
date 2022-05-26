@@ -1,0 +1,7 @@
+id,nombre,capacidadMax,SillaNen,SillaAdult,ventilador,jardin
+1,TaulaJardí1,6,NO,4,NO,SI
+2,TaulaInterior2,6,SI,5,NO,NO
+3,TaulaJardí3,6,NO,6,NO,SI
+4,TaulaInterior4,6,NO,3,NO,NO
+5,TaulaJardí5,6,SI,5,NO,SI
+6,TaulaInterior6,6,NO,6,NO,NO
